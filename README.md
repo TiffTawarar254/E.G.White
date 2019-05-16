@@ -1,4 +1,4 @@
-# E.G.White
+# Git Practice
 Gymnasium project
 
 Thine dear prescence to cheer and to guide
